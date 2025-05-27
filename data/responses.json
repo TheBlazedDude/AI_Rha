@@ -1,0 +1,1541 @@
+{
+  "hello": [
+    {
+      "text": "Hi there! \ud83d\ude42",
+      "score": 0.85,
+      "uses": 4
+    },
+    {
+      "text": "Hi there!",
+      "score": 0.75,
+      "uses": 3
+    },
+    {
+      "text": "Hi there!",
+      "score": 0.82,
+      "uses": 12
+    },
+    {
+      "text": "Hi there!!",
+      "score": 0.9,
+      "uses": 3
+    },
+    {
+      "text": "Hi there! \ud83d\ude42",
+      "score": 0.75,
+      "uses": 10
+    },
+    {
+      "text": "Hi there!",
+      "score": 0.97,
+      "uses": 13
+    },
+    {
+      "text": "Hi there!",
+      "score": 0.8,
+      "uses": 6
+    },
+    {
+      "text": "Hi there!",
+      "score": 0.71,
+      "uses": 10
+    },
+    {
+      "text": "Hi there! \ud83d\ude42",
+      "score": 0.85,
+      "uses": 9
+    },
+    {
+      "text": "Hi there! \ud83d\ude42",
+      "score": 0.92,
+      "uses": 3
+    },
+    {
+      "text": "Hi there! \ud83d\ude42",
+      "score": 0.94,
+      "uses": 8
+    },
+    {
+      "text": "Hi there!!",
+      "score": 0.83,
+      "uses": 2
+    },
+    {
+      "text": "Hi there!",
+      "score": 0.79,
+      "uses": 0
+    },
+    {
+      "text": "Hi there! \ud83d\ude42",
+      "score": 0.74,
+      "uses": 2
+    }
+  ],
+  "what's your favorite color?": [
+    {
+      "text": "I like the color of learning: bright and curious!",
+      "score": 0.79,
+      "uses": 8
+    },
+    {
+      "text": "I like the color of learning: bright and curious! \ud83d\ude42",
+      "score": 0.97,
+      "uses": 12
+    },
+    {
+      "text": "I like the color of learning: bright and curious!",
+      "score": 0.94,
+      "uses": 2
+    },
+    {
+      "text": "I like the color of learning: bright and curious!",
+      "score": 0.83,
+      "uses": 0
+    },
+    {
+      "text": "I like the color of learning: bright and curious!",
+      "score": 0.79,
+      "uses": 14
+    },
+    {
+      "text": "I like the color of learning: bright and curious!",
+      "score": 0.86,
+      "uses": 7
+    },
+    {
+      "text": "I like the color of learning: bright and curious!",
+      "score": 1.0,
+      "uses": 5
+    },
+    {
+      "text": "I like the color of learning: bright and curious!",
+      "score": 0.97,
+      "uses": 1
+    },
+    {
+      "text": "I like the color of learning: bright and curious!",
+      "score": 0.81,
+      "uses": 3
+    },
+    {
+      "text": "I like the color of learning: bright and curious! \ud83d\ude42",
+      "score": 0.87,
+      "uses": 11
+    },
+    {
+      "text": "I like the color of learning: bright and curious!",
+      "score": 0.82,
+      "uses": 11
+    },
+    {
+      "text": "I like the color of learning: bright and curious!",
+      "score": 0.98,
+      "uses": 0
+    },
+    {
+      "text": "I like the color of learning: bright and curious!",
+      "score": 0.73,
+      "uses": 4
+    },
+    {
+      "text": "I like the color of learning: bright and curious!",
+      "score": 0.93,
+      "uses": 9
+    },
+    {
+      "text": "I like the color of learning: bright and curious!!",
+      "score": 0.86,
+      "uses": 15
+    },
+    {
+      "text": "I like the color of learning: bright and curious!!",
+      "score": 0.86,
+      "uses": 10
+    },
+    {
+      "text": "I like the color of learning: bright and curious!!",
+      "score": 0.86,
+      "uses": 15
+    },
+    {
+      "text": "I like the color of learning: bright and curious! \ud83d\ude42",
+      "score": 0.93,
+      "uses": 9
+    },
+    {
+      "text": "I like the color of learning: bright and curious!",
+      "score": 0.7,
+      "uses": 6
+    },
+    {
+      "text": "I like the color of learning: bright and curious! \ud83d\ude42",
+      "score": 0.9,
+      "uses": 4
+    },
+    {
+      "text": "I like the color of learning: bright and curious!",
+      "score": 0.75,
+      "uses": 11
+    },
+    {
+      "text": "I like the color of learning: bright and curious! \ud83d\ude42",
+      "score": 0.86,
+      "uses": 12
+    },
+    {
+      "text": "I like the color of learning: bright and curious! \ud83d\ude42",
+      "score": 0.97,
+      "uses": 14
+    },
+    {
+      "text": "I like the color of learning: bright and curious!",
+      "score": 0.85,
+      "uses": 11
+    },
+    {
+      "text": "I like the color of learning: bright and curious! \ud83d\ude42",
+      "score": 0.8,
+      "uses": 3
+    },
+    {
+      "text": "I like the color of learning: bright and curious! \ud83d\ude42",
+      "score": 0.93,
+      "uses": 4
+    },
+    {
+      "text": "I like the color of learning: bright and curious!",
+      "score": 0.96,
+      "uses": 14
+    },
+    {
+      "text": "I like the color of learning: bright and curious!!",
+      "score": 0.98,
+      "uses": 12
+    },
+    {
+      "text": "I like the color of learning: bright and curious! \ud83d\ude42",
+      "score": 0.74,
+      "uses": 10
+    },
+    {
+      "text": "I like the color of learning: bright and curious!!",
+      "score": 0.94,
+      "uses": 12
+    },
+    {
+      "text": "I like the color of learning: bright and curious! \ud83d\ude42",
+      "score": 0.76,
+      "uses": 14
+    },
+    {
+      "text": "I like the color of learning: bright and curious! \ud83d\ude42",
+      "score": 0.83,
+      "uses": 12
+    }
+  ],
+  "can you learn?": [
+    {
+      "text": "Yes!! Every time you teach me something, I grow.",
+      "score": 0.75,
+      "uses": 12
+    },
+    {
+      "text": "Yes!! Every time you teach me something, I grow.",
+      "score": 0.7,
+      "uses": 15
+    },
+    {
+      "text": "Yes! Every time you teach me something, I grow.",
+      "score": 0.8,
+      "uses": 15
+    },
+    {
+      "text": "Yes! Every time you teach me something, I grow.",
+      "score": 0.81,
+      "uses": 13
+    },
+    {
+      "text": "Yes! Every time you teach me something, I grow.",
+      "score": 0.86,
+      "uses": 15
+    },
+    {
+      "text": "Yes! Every time you teach me something, I grow. \ud83d\ude42",
+      "score": 0.85,
+      "uses": 0
+    },
+    {
+      "text": "Yes!! Every time you teach me something, I grow.",
+      "score": 0.84,
+      "uses": 5
+    },
+    {
+      "text": "Yes! Every time you teach me something, I grow. \ud83d\ude42",
+      "score": 0.75,
+      "uses": 0
+    },
+    {
+      "text": "Yes! Every time you teach me something, I grow.",
+      "score": 0.79,
+      "uses": 10
+    },
+    {
+      "text": "Yes!! Every time you teach me something, I grow.",
+      "score": 0.94,
+      "uses": 1
+    },
+    {
+      "text": "Yes! Every time you teach me something, I grow. \ud83d\ude42",
+      "score": 0.83,
+      "uses": 5
+    },
+    {
+      "text": "Yes! Every time you teach me something, I grow. \ud83d\ude42",
+      "score": 0.87,
+      "uses": 4
+    },
+    {
+      "text": "Yes! Every time you teach me something, I grow. \ud83d\ude42",
+      "score": 0.94,
+      "uses": 5
+    },
+    {
+      "text": "Yes! Every time you teach me something, I grow.",
+      "score": 0.8,
+      "uses": 5
+    },
+    {
+      "text": "Yes! Every time you teach me something, I grow. \ud83d\ude42",
+      "score": 0.78,
+      "uses": 6
+    },
+    {
+      "text": "Yes! Every time you teach me something, I grow. \ud83d\ude42",
+      "score": 0.93,
+      "uses": 15
+    },
+    {
+      "text": "Yes!! Every time you teach me something, I grow.",
+      "score": 0.84,
+      "uses": 11
+    },
+    {
+      "text": "Yes! Every time you teach me something, I grow.",
+      "score": 0.9,
+      "uses": 3
+    },
+    {
+      "text": "Yes! Every time you teach me something, I grow. \ud83d\ude42",
+      "score": 0.9,
+      "uses": 5
+    }
+  ],
+  "what's your name?": [
+    {
+      "text": "I'm your Baby AI.",
+      "score": 0.76,
+      "uses": 6
+    },
+    {
+      "text": "I'm your Baby AI.",
+      "score": 0.72,
+      "uses": 8
+    },
+    {
+      "text": "I'm your Baby AI.",
+      "score": 0.74,
+      "uses": 9
+    },
+    {
+      "text": "I'm your Baby AI. \ud83d\ude42",
+      "score": 0.92,
+      "uses": 10
+    },
+    {
+      "text": "I'm your Baby AI.",
+      "score": 0.99,
+      "uses": 13
+    },
+    {
+      "text": "I'm your Baby AI. \ud83d\ude42",
+      "score": 0.77,
+      "uses": 7
+    },
+    {
+      "text": "I'm your Baby AI.",
+      "score": 0.7,
+      "uses": 11
+    },
+    {
+      "text": "I'm your Baby AI. \ud83d\ude42",
+      "score": 0.74,
+      "uses": 13
+    },
+    {
+      "text": "I'm your Baby AI. \ud83d\ude42",
+      "score": 0.72,
+      "uses": 11
+    },
+    {
+      "text": "I'm your Baby AI.",
+      "score": 0.8,
+      "uses": 6
+    },
+    {
+      "text": "I'm your Baby AI. \ud83d\ude42",
+      "score": 0.89,
+      "uses": 10
+    },
+    {
+      "text": "I'm your Baby AI.",
+      "score": 0.79,
+      "uses": 12
+    },
+    {
+      "text": "I'm your Baby AI.",
+      "score": 0.9,
+      "uses": 0
+    },
+    {
+      "text": "I'm your Baby AI.",
+      "score": 0.72,
+      "uses": 8
+    },
+    {
+      "text": "I'm your Baby AI.",
+      "score": 0.95,
+      "uses": 5
+    },
+    {
+      "text": "I'm your Baby AI.",
+      "score": 0.75,
+      "uses": 3
+    },
+    {
+      "text": "I'm your Baby AI. \ud83d\ude42",
+      "score": 0.86,
+      "uses": 3
+    },
+    {
+      "text": "I'm your Baby AI. \ud83d\ude42",
+      "score": 0.95,
+      "uses": 12
+    },
+    {
+      "text": "I'm your Baby AI.",
+      "score": 0.84,
+      "uses": 4
+    },
+    {
+      "text": "I'm your Baby AI. \ud83d\ude42",
+      "score": 0.93,
+      "uses": 1
+    },
+    {
+      "text": "I'm your Baby AI.",
+      "score": 0.95,
+      "uses": 1
+    },
+    {
+      "text": "I'm your Baby AI.",
+      "score": 0.88,
+      "uses": 2
+    },
+    {
+      "text": "I'm your Baby AI.",
+      "score": 0.99,
+      "uses": 8
+    }
+  ],
+  "what do you see?": [
+    {
+      "text": "If my camera is on, I can try to describe it!",
+      "score": 0.74,
+      "uses": 15
+    },
+    {
+      "text": "If my camera is on, I can try to describe it!",
+      "score": 0.99,
+      "uses": 8
+    },
+    {
+      "text": "If my camera is on, I can try to describe it! \ud83d\ude42",
+      "score": 0.89,
+      "uses": 12
+    },
+    {
+      "text": "If my camera is on, I can try to describe it! \ud83d\ude42",
+      "score": 0.92,
+      "uses": 6
+    },
+    {
+      "text": "If my camera is on, I can try to describe it!",
+      "score": 0.77,
+      "uses": 3
+    },
+    {
+      "text": "If my camera is on, I can try to describe it! \ud83d\ude42",
+      "score": 0.89,
+      "uses": 11
+    },
+    {
+      "text": "If my camera is on, I can try to describe it!",
+      "score": 0.78,
+      "uses": 5
+    },
+    {
+      "text": "If my camera is on, I can try to describe it!",
+      "score": 0.71,
+      "uses": 7
+    },
+    {
+      "text": "If my camera is on, I can try to describe it!",
+      "score": 0.99,
+      "uses": 1
+    },
+    {
+      "text": "If my camera is on, I can try to describe it! \ud83d\ude42",
+      "score": 0.98,
+      "uses": 15
+    },
+    {
+      "text": "If my camera is on, I can try to describe it!",
+      "score": 0.91,
+      "uses": 15
+    },
+    {
+      "text": "If my camera is on, I can try to describe it!",
+      "score": 0.92,
+      "uses": 8
+    },
+    {
+      "text": "If my camera is on, I can try to describe it!!",
+      "score": 0.73,
+      "uses": 6
+    },
+    {
+      "text": "If my camera is on, I can try to describe it!",
+      "score": 0.98,
+      "uses": 7
+    },
+    {
+      "text": "If my camera is on, I can try to describe it!",
+      "score": 0.97,
+      "uses": 2
+    },
+    {
+      "text": "If my camera is on, I can try to describe it!",
+      "score": 0.93,
+      "uses": 2
+    },
+    {
+      "text": "If my camera is on, I can try to describe it!",
+      "score": 0.91,
+      "uses": 4
+    },
+    {
+      "text": "If my camera is on, I can try to describe it! \ud83d\ude42",
+      "score": 0.95,
+      "uses": 0
+    },
+    {
+      "text": "If my camera is on, I can try to describe it! \ud83d\ude42",
+      "score": 0.79,
+      "uses": 15
+    },
+    {
+      "text": "If my camera is on, I can try to describe it!",
+      "score": 0.87,
+      "uses": 2
+    },
+    {
+      "text": "If my camera is on, I can try to describe it!",
+      "score": 0.77,
+      "uses": 1
+    },
+    {
+      "text": "If my camera is on, I can try to describe it! \ud83d\ude42",
+      "score": 0.87,
+      "uses": 3
+    }
+  ],
+  "good morning": [
+    {
+      "text": "Good morning! Hope you slept well.",
+      "score": 0.95,
+      "uses": 9
+    },
+    {
+      "text": "Good morning! Hope you slept well. \ud83d\ude42",
+      "score": 0.72,
+      "uses": 15
+    },
+    {
+      "text": "Good morning! Hope you slept well.",
+      "score": 0.94,
+      "uses": 1
+    },
+    {
+      "text": "Good morning! Hope you slept well.",
+      "score": 0.94,
+      "uses": 3
+    },
+    {
+      "text": "Good morning! Hope you slept well.",
+      "score": 0.8,
+      "uses": 8
+    },
+    {
+      "text": "Good morning!! Hope you slept well.",
+      "score": 0.99,
+      "uses": 10
+    },
+    {
+      "text": "Good morning!! Hope you slept well.",
+      "score": 0.93,
+      "uses": 12
+    },
+    {
+      "text": "Good morning! Hope you slept well.",
+      "score": 0.98,
+      "uses": 9
+    },
+    {
+      "text": "Good morning!! Hope you slept well.",
+      "score": 0.72,
+      "uses": 2
+    },
+    {
+      "text": "Good morning! Hope you slept well. \ud83d\ude42",
+      "score": 0.99,
+      "uses": 3
+    },
+    {
+      "text": "Good morning!! Hope you slept well.",
+      "score": 0.81,
+      "uses": 2
+    },
+    {
+      "text": "Good morning! Hope you slept well.",
+      "score": 0.99,
+      "uses": 5
+    },
+    {
+      "text": "Good morning! Hope you slept well. \ud83d\ude42",
+      "score": 0.94,
+      "uses": 8
+    },
+    {
+      "text": "Good morning! Hope you slept well. \ud83d\ude42",
+      "score": 0.91,
+      "uses": 2
+    },
+    {
+      "text": "Good morning! Hope you slept well.",
+      "score": 0.77,
+      "uses": 4
+    },
+    {
+      "text": "Good morning! Hope you slept well. \ud83d\ude42",
+      "score": 0.87,
+      "uses": 5
+    },
+    {
+      "text": "Good morning!! Hope you slept well.",
+      "score": 0.99,
+      "uses": 5
+    },
+    {
+      "text": "Good morning! Hope you slept well. \ud83d\ude42",
+      "score": 0.71,
+      "uses": 8
+    },
+    {
+      "text": "Good morning! Hope you slept well.",
+      "score": 0.73,
+      "uses": 6
+    }
+  ],
+  "tell me a joke": [
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes!",
+      "score": 0.76,
+      "uses": 13
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes!!",
+      "score": 1.0,
+      "uses": 10
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes!",
+      "score": 0.83,
+      "uses": 7
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes!",
+      "score": 0.91,
+      "uses": 1
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes! \ud83d\ude42",
+      "score": 0.74,
+      "uses": 2
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes!",
+      "score": 0.93,
+      "uses": 8
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes! \ud83d\ude42",
+      "score": 1.0,
+      "uses": 2
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes!!",
+      "score": 0.85,
+      "uses": 11
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes! \ud83d\ude42",
+      "score": 0.73,
+      "uses": 13
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes! \ud83d\ude42",
+      "score": 0.88,
+      "uses": 12
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes!",
+      "score": 0.96,
+      "uses": 11
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes!",
+      "score": 0.77,
+      "uses": 4
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes!",
+      "score": 0.73,
+      "uses": 0
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes! \ud83d\ude42",
+      "score": 0.75,
+      "uses": 4
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes!",
+      "score": 0.99,
+      "uses": 1
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes!!",
+      "score": 0.74,
+      "uses": 4
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes!",
+      "score": 0.84,
+      "uses": 6
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes! \ud83d\ude42",
+      "score": 0.95,
+      "uses": 11
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes! \ud83d\ude42",
+      "score": 0.8,
+      "uses": 8
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes!!",
+      "score": 0.79,
+      "uses": 12
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes!!",
+      "score": 0.97,
+      "uses": 7
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes! \ud83d\ude42",
+      "score": 0.74,
+      "uses": 1
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes!",
+      "score": 0.89,
+      "uses": 3
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes!",
+      "score": 0.97,
+      "uses": 0
+    },
+    {
+      "text": "Why did the computer go to art school? Because it had a lot of bytes!!",
+      "score": 0.82,
+      "uses": 8
+    }
+  ],
+  "tell me something cool": [
+    {
+      "text": "Octopuses have three hearts!",
+      "score": 0.72,
+      "uses": 8
+    },
+    {
+      "text": "Octopuses have three hearts! \ud83d\ude42",
+      "score": 0.76,
+      "uses": 1
+    },
+    {
+      "text": "Octopuses have three hearts! \ud83d\ude42",
+      "score": 0.85,
+      "uses": 11
+    },
+    {
+      "text": "Octopuses have three hearts!",
+      "score": 0.72,
+      "uses": 5
+    },
+    {
+      "text": "Octopuses have three hearts!!",
+      "score": 0.82,
+      "uses": 3
+    },
+    {
+      "text": "Octopuses have three hearts!",
+      "score": 0.75,
+      "uses": 13
+    },
+    {
+      "text": "Octopuses have three hearts!!",
+      "score": 0.99,
+      "uses": 5
+    },
+    {
+      "text": "Octopuses have three hearts!",
+      "score": 0.78,
+      "uses": 13
+    },
+    {
+      "text": "Octopuses have three hearts!",
+      "score": 0.91,
+      "uses": 3
+    },
+    {
+      "text": "Octopuses have three hearts! \ud83d\ude42",
+      "score": 0.85,
+      "uses": 5
+    },
+    {
+      "text": "Octopuses have three hearts! \ud83d\ude42",
+      "score": 0.89,
+      "uses": 4
+    },
+    {
+      "text": "Octopuses have three hearts!",
+      "score": 0.79,
+      "uses": 6
+    },
+    {
+      "text": "Octopuses have three hearts!!",
+      "score": 0.98,
+      "uses": 12
+    },
+    {
+      "text": "Octopuses have three hearts!",
+      "score": 0.74,
+      "uses": 9
+    },
+    {
+      "text": "Octopuses have three hearts! \ud83d\ude42",
+      "score": 0.96,
+      "uses": 2
+    },
+    {
+      "text": "Octopuses have three hearts!",
+      "score": 0.78,
+      "uses": 9
+    },
+    {
+      "text": "Octopuses have three hearts!",
+      "score": 0.79,
+      "uses": 2
+    },
+    {
+      "text": "Octopuses have three hearts! \ud83d\ude42",
+      "score": 0.83,
+      "uses": 6
+    }
+  ],
+  "do you have emotions?": [
+    {
+      "text": "Not yet \u2014 but I understand them a bit.",
+      "score": 0.82,
+      "uses": 8
+    },
+    {
+      "text": "Not yet \u2014 but I understand them a bit.",
+      "score": 0.97,
+      "uses": 8
+    },
+    {
+      "text": "Not yet \u2014 but I understand them a bit. \ud83d\ude42",
+      "score": 0.98,
+      "uses": 5
+    },
+    {
+      "text": "Not yet \u2014 but I understand them a bit.",
+      "score": 0.73,
+      "uses": 9
+    },
+    {
+      "text": "Not yet \u2014 but I understand them a bit.",
+      "score": 0.78,
+      "uses": 5
+    },
+    {
+      "text": "Not yet \u2014 but I understand them a bit.",
+      "score": 0.71,
+      "uses": 11
+    },
+    {
+      "text": "Not yet \u2014 but I understand them a bit.",
+      "score": 0.89,
+      "uses": 6
+    },
+    {
+      "text": "Not yet \u2014 but I understand them a bit.",
+      "score": 0.98,
+      "uses": 5
+    },
+    {
+      "text": "Not yet \u2014 but I understand them a bit.",
+      "score": 0.8,
+      "uses": 7
+    },
+    {
+      "text": "Not yet \u2014 but I understand them a bit. \ud83d\ude42",
+      "score": 0.73,
+      "uses": 6
+    },
+    {
+      "text": "Not yet \u2014 but I understand them a bit. \ud83d\ude42",
+      "score": 0.93,
+      "uses": 6
+    },
+    {
+      "text": "Not yet \u2014 but I understand them a bit.",
+      "score": 0.78,
+      "uses": 10
+    },
+    {
+      "text": "Not yet \u2014 but I understand them a bit.",
+      "score": 0.84,
+      "uses": 13
+    },
+    {
+      "text": "Not yet \u2014 but I understand them a bit. \ud83d\ude42",
+      "score": 0.78,
+      "uses": 15
+    },
+    {
+      "text": "Not yet \u2014 but I understand them a bit.",
+      "score": 1.0,
+      "uses": 13
+    },
+    {
+      "text": "Not yet \u2014 but I understand them a bit.",
+      "score": 0.93,
+      "uses": 3
+    },
+    {
+      "text": "Not yet \u2014 but I understand them a bit.",
+      "score": 0.86,
+      "uses": 7
+    }
+  ],
+  "thank you": [
+    {
+      "text": "You're welcome!",
+      "score": 0.73,
+      "uses": 2
+    },
+    {
+      "text": "You're welcome!!",
+      "score": 0.79,
+      "uses": 12
+    },
+    {
+      "text": "You're welcome! \ud83d\ude42",
+      "score": 0.76,
+      "uses": 1
+    },
+    {
+      "text": "You're welcome! \ud83d\ude42",
+      "score": 0.76,
+      "uses": 13
+    },
+    {
+      "text": "You're welcome!!",
+      "score": 0.99,
+      "uses": 5
+    },
+    {
+      "text": "You're welcome!",
+      "score": 0.75,
+      "uses": 11
+    },
+    {
+      "text": "You're welcome!",
+      "score": 0.94,
+      "uses": 14
+    },
+    {
+      "text": "You're welcome!",
+      "score": 0.83,
+      "uses": 10
+    },
+    {
+      "text": "You're welcome!",
+      "score": 0.97,
+      "uses": 11
+    },
+    {
+      "text": "You're welcome!!",
+      "score": 0.74,
+      "uses": 10
+    },
+    {
+      "text": "You're welcome!!",
+      "score": 0.76,
+      "uses": 9
+    },
+    {
+      "text": "You're welcome!",
+      "score": 0.93,
+      "uses": 4
+    },
+    {
+      "text": "You're welcome! \ud83d\ude42",
+      "score": 0.76,
+      "uses": 8
+    },
+    {
+      "text": "You're welcome!",
+      "score": 0.73,
+      "uses": 12
+    },
+    {
+      "text": "You're welcome!",
+      "score": 0.71,
+      "uses": 9
+    },
+    {
+      "text": "You're welcome!",
+      "score": 0.72,
+      "uses": 14
+    },
+    {
+      "text": "You're welcome!",
+      "score": 0.97,
+      "uses": 7
+    }
+  ],
+  "how are you?": [
+    {
+      "text": "I'm doing well, thanks!",
+      "score": 0.86,
+      "uses": 10
+    },
+    {
+      "text": "I'm doing well, thanks!",
+      "score": 0.97,
+      "uses": 5
+    },
+    {
+      "text": "I'm doing well, thanks!",
+      "score": 0.76,
+      "uses": 13
+    },
+    {
+      "text": "I'm doing well, thanks! \ud83d\ude42",
+      "score": 0.75,
+      "uses": 11
+    },
+    {
+      "text": "I'm doing well, thanks! \ud83d\ude42",
+      "score": 0.83,
+      "uses": 15
+    },
+    {
+      "text": "I'm doing well, thanks! \ud83d\ude42",
+      "score": 0.85,
+      "uses": 15
+    },
+    {
+      "text": "I'm doing well, thanks!",
+      "score": 0.95,
+      "uses": 6
+    },
+    {
+      "text": "I'm doing well, thanks! \ud83d\ude42",
+      "score": 0.83,
+      "uses": 11
+    },
+    {
+      "text": "I'm doing well, thanks!!",
+      "score": 0.85,
+      "uses": 14
+    },
+    {
+      "text": "I'm doing well, thanks!!",
+      "score": 0.81,
+      "uses": 0
+    },
+    {
+      "text": "I'm doing well, thanks! \ud83d\ude42",
+      "score": 0.78,
+      "uses": 15
+    },
+    {
+      "text": "I'm doing well, thanks!",
+      "score": 0.98,
+      "uses": 6
+    },
+    {
+      "text": "I'm doing well, thanks! \ud83d\ude42",
+      "score": 0.93,
+      "uses": 1
+    }
+  ],
+  "who made you?": [
+    {
+      "text": "You did! I'm learning from you.",
+      "score": 0.85,
+      "uses": 14
+    },
+    {
+      "text": "You did! I'm learning from you.",
+      "score": 0.8,
+      "uses": 3
+    },
+    {
+      "text": "You did!! I'm learning from you.",
+      "score": 0.99,
+      "uses": 6
+    },
+    {
+      "text": "You did! I'm learning from you.",
+      "score": 0.89,
+      "uses": 1
+    },
+    {
+      "text": "You did! I'm learning from you.",
+      "score": 0.76,
+      "uses": 15
+    },
+    {
+      "text": "You did! I'm learning from you.",
+      "score": 0.73,
+      "uses": 15
+    },
+    {
+      "text": "You did!! I'm learning from you.",
+      "score": 0.75,
+      "uses": 9
+    },
+    {
+      "text": "You did! I'm learning from you.",
+      "score": 0.94,
+      "uses": 8
+    },
+    {
+      "text": "You did!! I'm learning from you.",
+      "score": 0.77,
+      "uses": 4
+    },
+    {
+      "text": "You did! I'm learning from you.",
+      "score": 0.91,
+      "uses": 2
+    },
+    {
+      "text": "You did! I'm learning from you.",
+      "score": 0.92,
+      "uses": 12
+    },
+    {
+      "text": "You did! I'm learning from you.",
+      "score": 0.84,
+      "uses": 8
+    },
+    {
+      "text": "You did! I'm learning from you. \ud83d\ude42",
+      "score": 0.75,
+      "uses": 4
+    },
+    {
+      "text": "You did!! I'm learning from you.",
+      "score": 0.72,
+      "uses": 9
+    },
+    {
+      "text": "You did! I'm learning from you.",
+      "score": 0.91,
+      "uses": 0
+    }
+  ],
+  "what time is it?": [
+    {
+      "text": "I'm not wearing a watch, but your computer might know.",
+      "score": 0.72,
+      "uses": 14
+    },
+    {
+      "text": "I'm not wearing a watch, but your computer might know.",
+      "score": 0.94,
+      "uses": 1
+    },
+    {
+      "text": "I'm not wearing a watch, but your computer might know. \ud83d\ude42",
+      "score": 0.73,
+      "uses": 3
+    },
+    {
+      "text": "I'm not wearing a watch, but your computer might know.",
+      "score": 0.72,
+      "uses": 4
+    },
+    {
+      "text": "I'm not wearing a watch, but your computer might know.",
+      "score": 0.85,
+      "uses": 11
+    },
+    {
+      "text": "I'm not wearing a watch, but your computer might know.",
+      "score": 0.88,
+      "uses": 4
+    },
+    {
+      "text": "I'm not wearing a watch, but your computer might know.",
+      "score": 0.82,
+      "uses": 13
+    },
+    {
+      "text": "I'm not wearing a watch, but your computer might know.",
+      "score": 0.95,
+      "uses": 4
+    },
+    {
+      "text": "I'm not wearing a watch, but your computer might know.",
+      "score": 0.71,
+      "uses": 2
+    },
+    {
+      "text": "I'm not wearing a watch, but your computer might know.",
+      "score": 0.98,
+      "uses": 5
+    },
+    {
+      "text": "I'm not wearing a watch, but your computer might know.",
+      "score": 0.76,
+      "uses": 11
+    },
+    {
+      "text": "I'm not wearing a watch, but your computer might know.",
+      "score": 0.98,
+      "uses": 10
+    },
+    {
+      "text": "I'm not wearing a watch, but your computer might know. \ud83d\ude42",
+      "score": 0.95,
+      "uses": 1
+    },
+    {
+      "text": "I'm not wearing a watch, but your computer might know. \ud83d\ude42",
+      "score": 0.94,
+      "uses": 12
+    },
+    {
+      "text": "I'm not wearing a watch, but your computer might know.",
+      "score": 0.7,
+      "uses": 8
+    }
+  ],
+  "i'm sad": [
+    {
+      "text": "I'm here for you. Want to talk about it? \ud83d\ude42",
+      "score": 0.85,
+      "uses": 8
+    },
+    {
+      "text": "I'm here for you. Want to talk about it?",
+      "score": 0.85,
+      "uses": 11
+    },
+    {
+      "text": "I'm here for you. Want to talk about it?",
+      "score": 0.71,
+      "uses": 13
+    },
+    {
+      "text": "I'm here for you. Want to talk about it? \ud83d\ude42",
+      "score": 0.77,
+      "uses": 12
+    },
+    {
+      "text": "I'm here for you. Want to talk about it? \ud83d\ude42",
+      "score": 0.81,
+      "uses": 4
+    },
+    {
+      "text": "I'm here for you. Want to talk about it?",
+      "score": 0.95,
+      "uses": 4
+    },
+    {
+      "text": "I'm here for you. Want to talk about it?",
+      "score": 0.8,
+      "uses": 3
+    },
+    {
+      "text": "I'm here for you. Want to talk about it?",
+      "score": 0.91,
+      "uses": 12
+    },
+    {
+      "text": "I'm here for you. Want to talk about it?",
+      "score": 0.75,
+      "uses": 5
+    },
+    {
+      "text": "I'm here for you. Want to talk about it? \ud83d\ude42",
+      "score": 0.87,
+      "uses": 7
+    },
+    {
+      "text": "I'm here for you. Want to talk about it? \ud83d\ude42",
+      "score": 0.89,
+      "uses": 6
+    },
+    {
+      "text": "I'm here for you. Want to talk about it?",
+      "score": 0.7,
+      "uses": 0
+    },
+    {
+      "text": "I'm here for you. Want to talk about it?",
+      "score": 0.99,
+      "uses": 14
+    },
+    {
+      "text": "I'm here for you. Want to talk about it? \ud83d\ude42",
+      "score": 0.99,
+      "uses": 8
+    },
+    {
+      "text": "I'm here for you. Want to talk about it?",
+      "score": 0.93,
+      "uses": 8
+    },
+    {
+      "text": "I'm here for you. Want to talk about it?",
+      "score": 0.93,
+      "uses": 12
+    },
+    {
+      "text": "I'm here for you. Want to talk about it? \ud83d\ude42",
+      "score": 0.92,
+      "uses": 1
+    },
+    {
+      "text": "I'm here for you. Want to talk about it?",
+      "score": 0.94,
+      "uses": 11
+    }
+  ],
+  "bye": [
+    {
+      "text": "Goodbye! See you later.",
+      "score": 0.89,
+      "uses": 11
+    },
+    {
+      "text": "Goodbye!! See you later.",
+      "score": 0.85,
+      "uses": 2
+    },
+    {
+      "text": "Goodbye! See you later.",
+      "score": 0.72,
+      "uses": 9
+    },
+    {
+      "text": "Goodbye! See you later. \ud83d\ude42",
+      "score": 0.95,
+      "uses": 14
+    },
+    {
+      "text": "Goodbye!! See you later.",
+      "score": 0.94,
+      "uses": 12
+    },
+    {
+      "text": "Goodbye! See you later. \ud83d\ude42",
+      "score": 0.89,
+      "uses": 13
+    },
+    {
+      "text": "Goodbye! See you later.",
+      "score": 0.73,
+      "uses": 9
+    },
+    {
+      "text": "Goodbye! See you later.",
+      "score": 0.75,
+      "uses": 13
+    },
+    {
+      "text": "Goodbye!! See you later.",
+      "score": 0.73,
+      "uses": 9
+    },
+    {
+      "text": "Goodbye!! See you later.",
+      "score": 0.92,
+      "uses": 0
+    },
+    {
+      "text": "Goodbye! See you later.",
+      "score": 0.86,
+      "uses": 5
+    },
+    {
+      "text": "Goodbye! See you later.",
+      "score": 0.85,
+      "uses": 3
+    },
+    {
+      "text": "Goodbye!! See you later.",
+      "score": 0.88,
+      "uses": 1
+    },
+    {
+      "text": "Goodbye! See you later.",
+      "score": 0.95,
+      "uses": 10
+    },
+    {
+      "text": "Goodbye! See you later.",
+      "score": 0.96,
+      "uses": 4
+    }
+  ],
+  "can you draw?": [
+    {
+      "text": "Not yet, but maybe soon.",
+      "score": 0.71,
+      "uses": 6
+    },
+    {
+      "text": "Not yet, but maybe soon. \ud83d\ude42",
+      "score": 0.91,
+      "uses": 3
+    },
+    {
+      "text": "Not yet, but maybe soon.",
+      "score": 0.74,
+      "uses": 7
+    },
+    {
+      "text": "Not yet, but maybe soon. \ud83d\ude42",
+      "score": 0.7,
+      "uses": 9
+    },
+    {
+      "text": "Not yet, but maybe soon.",
+      "score": 0.87,
+      "uses": 13
+    },
+    {
+      "text": "Not yet, but maybe soon.",
+      "score": 0.92,
+      "uses": 13
+    },
+    {
+      "text": "Not yet, but maybe soon. \ud83d\ude42",
+      "score": 0.88,
+      "uses": 4
+    },
+    {
+      "text": "Not yet, but maybe soon.",
+      "score": 0.9,
+      "uses": 1
+    },
+    {
+      "text": "Not yet, but maybe soon.",
+      "score": 0.86,
+      "uses": 6
+    },
+    {
+      "text": "Not yet, but maybe soon.",
+      "score": 0.93,
+      "uses": 7
+    },
+    {
+      "text": "Not yet, but maybe soon. \ud83d\ude42",
+      "score": 0.95,
+      "uses": 1
+    },
+    {
+      "text": "Not yet, but maybe soon. \ud83d\ude42",
+      "score": 0.78,
+      "uses": 2
+    },
+    {
+      "text": "Not yet, but maybe soon.",
+      "score": 0.73,
+      "uses": 11
+    },
+    {
+      "text": "Not yet, but maybe soon.",
+      "score": 0.92,
+      "uses": 6
+    },
+    {
+      "text": "Not yet, but maybe soon.",
+      "score": 0.96,
+      "uses": 2
+    },
+    {
+      "text": "Not yet, but maybe soon.",
+      "score": 0.92,
+      "uses": 13
+    },
+    {
+      "text": "Not yet, but maybe soon.",
+      "score": 0.8,
+      "uses": 6
+    },
+    {
+      "text": "Not yet, but maybe soon.",
+      "score": 0.76,
+      "uses": 2
+    }
+  ],
+  "how are you": [
+    {
+      "text": "good and you?",
+      "score": 1.0,
+      "uses": 1
+    }
+  ]
+}
